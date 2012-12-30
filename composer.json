@@ -1,0 +1,16 @@
+{
+    "name": "AI/AI",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nuzhdin Urii",
+            "email": "nuzhdin.urii@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "AI": "src/"
+        }
+    }
+}
