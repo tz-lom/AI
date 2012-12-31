@@ -1,5 +1,5 @@
 {
-    "name": "AI/AI",
+    "name": "ai/ai",
     "description": "Automatic Injector , DI container that automatically injects dependencies",
     "license": "MIT",
     "authors": [
