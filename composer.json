@@ -1,6 +1,6 @@
 {
     "name": "AI/AI",
-    "description": "",
+    "description": "Automatic Injector , DI container that automatically injects dependencies",
     "license": "MIT",
     "authors": [
         {
@@ -8,6 +8,9 @@
             "email": "nuzhdin.urii@gmail.com"
         }
     ],
+    "support": {
+        "source": "http://github.com/tz-lom/AI"
+    },
     "autoload": {
         "psr-0": {
             "AI": "src/"
